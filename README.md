@@ -12,9 +12,9 @@ In this demo, I will set up Azure Sentinel (SIEM) and connect it to a live virtu
 
 <p align="center">
 <br />
-<img src="https://i.imgur.com/UR9BUhV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YlbAUyi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/4aGAja9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sLHsZr2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <h2>Languages and Utilities Used</h2>
 
